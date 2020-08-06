@@ -1,0 +1,10 @@
+<resources>
+    <string-array name="spinnerItems">
+        <item>Ahmedabad</item>
+        <item>Baroda</item>
+        <item>Gandhinagar</item>
+        <item>Jamnagar</item>
+        <item>Rajkot</item>
+        <item>Valsad</item>
+    </string-array>
+</resources>

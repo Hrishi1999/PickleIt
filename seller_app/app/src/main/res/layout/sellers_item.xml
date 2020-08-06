@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/card_view"
+    android:layout_width="134dp"
+    android:layout_height="180dp"
+    android:layout_gravity="center"
+    card_view:cardCornerRadius="4dp">
+
+    <LinearLayout
+        android:layout_width="134dp"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="135dp"
+            android:layout_height="87dp"
+            android:src="@color/colorAccent" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingStart="5dp"
+            android:paddingTop="5dp"
+            android:paddingBottom="1dp"
+            android:text="Pickle"
+            android:textSize="9sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:fontFamily="@font/roboto_bold"
+            android:paddingStart="5dp"
+            android:text="Pickle #1"
+            android:textColor="@android:color/black"
+            android:textSize="13sp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingStart="2dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingStart="5dp"
+                android:paddingTop="5dp"
+                android:paddingBottom="1dp"
+                android:text="Pickle"
+                android:textSize="9sp"
+                tools:text="20" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingStart="5dp"
+                android:paddingTop="5dp"
+                android:paddingRight="45dp"
+                android:paddingBottom="1dp"
+                android:text="Pickle"
+                android:textColor="@android:color/black"
+                android:textSize="12sp"
+                tools:text="20" />
+
+            <android.support.design.button.MaterialButton
+                android:layout_width="50dp"
+                android:layout_height="40dp"
+                android:text="Add"
+                android:textSize="9sp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</android.support.design.card.MaterialCardView>

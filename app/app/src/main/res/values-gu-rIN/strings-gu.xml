@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProjectPickle</string>
+    <string name="title_activity_login">સાઇન ઇન કરો</string>
+    <string name="widget_title">વસ્તુઓ</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">ઇમેઇલ</string>
+    <string name="prompt_password">પાસવર્ડ (વૈકલ્પિક)</string>
+    <string name="action_sign_in">સાઇન ઇન કરો અથવા નોંધણી કરો</string>
+    <string name="action_sign_in_short">સાઇન ઇન કરો</string>
+    <string name="error_invalid_email">આ ઇમેઇલ સરનામું અમાન્ય છે</string>
+    <string name="error_invalid_password">આ પાસવર્ડ ખૂબ ટૂંકા છે</string>
+    <string name="error_incorrect_password">આ પાસવર્ડ ખોટો છે</string>
+    <string name="error_field_required">આ મહિતિ જરૂરી છે</string>
+    <string name="permission_rationale">"ઇમેઇલ આપવા માટે સંપર્કોની પરવાનગીઓની આવશ્યકતા છે."</string>
+
+    <string name="email">ઇમેઇલ</string>
+    <string name="minimum_password"> પાસવર્ડ ખૂબ નાનો છે, ઓછામાં ઓછા 6 અક્ષરો દાખલ કરો!</string>
+    <string name="auth_failed">પ્રમાણીકરણ નિષ્ફળ થયું, તમારું ઇમેઇલ અને પાસવર્ડ તપાસો અથવા સાઇન અપ કરો</string>
+    <string name="change_email">ઈ - મેઈલ બદલો</string>
+    <string name="change_password">પાસવર્ડ બદલો</string>
+    <string name="send_password_reset_email">પાસવર્ડ રીસેટ ઇમેઇલ મોકલો</string>
+    <string name="remove_user">વપરાશકર્તા દૂર કરો</string>
+    <string name="new_pass">નવો પાસવર્ડ</string>
+    <string name="title_activity_profile">ફાયરબેઝ</string>
+    <string name="hint_email">ઇમેઇલ</string>
+    <string name="hint_password">પાસવર્ડ</string>
+    <string name="hint_name">પૂરું નામ</string>
+    <string name="btn_login">લૉગિન</string>
+    <string name="btn_link_to_register">
+નોંધાયેલ નથી? હમણાં જ નોંધણી કરો!</string>
+    <string name="btn_link_to_login">પહેલેથી નોંધાયેલ છે. મને લૉગિન કરો!</string>
+    <string name="title_activity_reset_password">
+ફરીથી સેટ કરોપાસવર્ડ એક્ટિવીટી
+</string>
+    <string name="btn_forgot_password">તમારો પાસવર્ડ ભૂલી ગયા છો?</string>
+    <string name="btn_reset_password">પાસવર્ડ ફરીથી સેટ કરો</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="hint_new_email">નવો ઇમેઇલ</string>
+    <string name="btn_change">
+ફેરફાર</string>
+    <string name="btn_send">
+મોકલો</string>
+    <string name="btn_remove">
+દૂર કરો</string>
+    <string name="btn_sign_out">સાઇન આઉટ કરો</string>
+    <string name="lbl_forgot_password">પાસવર્ડ ભૂલી ગયો?</string>
+    <string name="forgot_password_msg">પાસવર્ડ રીસેટ સૂચનાઓ મોકલવા માટે અમને ફક્ત તમારા રજિસ્ટર્ડ ઇમેઇલ આઈડીની જરૂર છે.</string>
+    <string name="add_item_txt">વસ્તુ ઉમેરો</string>
+    <string name="appwidget_text">ઉદાહરણ</string>
+    <string name="add_widget">Add widget</string>
+
+    <string name="hint_product_name">વસ્તુ
+ નામ</string>
+    <string name="hint_quantity">
+જથ્થો</string>
+    <string name="hint_expiry_date">અંતિમ તારીખ</string>
+    <string name="hint_price">
+કિંમત</string>
+    <string name="btn_scan_barcode">બારકોડ સ્કેન કરો</string>
+
+    <string name="cnt_product">ઉત્પાદનનું નામ</string>
+    <string name="cnt_quantity">ઉત્પાદનની માત્રા</string>
+    <string name="cnt_date">ઉત્પાદનની સમાપ્તિ તારીખ</string>
+    <string name="cnt_price">ઉત્પાદનની કિંમત</string>
+    <string name="cnt_bcd">બારકોડ સ્કેન કરો</string>
+    <string name="cnt_add">વસ્તુ ઉમેરો</string>
+
+    <string name="tst_enter_pwd">પાસવર્ડ દાખલ કરો!</string>
+    <string name="tst_email_id">ઇમેઇલ સરનામું દાખલ કરો!</string>
+    <string name="tst_pwd_shrt">પાસવર્ડ ખૂબ નાનો છે, ઓછામાં ઓછા 6 અક્ષરો દાખલ કરો!</string>
+
+    <string name="auth_failed_tst">પ્રમાણીકરણ નિષ્ફળ થયું.</string>
+    <string name="rst_id"> તમારી નોંધાયેલ ઇમેઇલ આઈડી દાખલ કરો</string>
+    <string name="rst_inst">અમે તમારો પાસવર્ડ ફરીથી સેટ કરવા માટે તમને સૂચનાઓ મોકલી છે!</string>
+    <string name="rst_failed">રીસેટ ઇમેઇલ મોકલવામાં નિષ્ફળ!</string>
+
+    <string name="txt_permission">કૃપા કરીને પરવાનગીઓ આપો.</string>
+    <string name="KEY_LIST">સૂચિ </string>
+    <string name="ada_expiring">સમાપ્તિ તારીખ&#160;</string>
+    <string name="ada_date">&#160;દિવસ </string>
+    <string name="ada_quantity">જથ્થા:&#160;</string>
+    <string name="ada_price">ભાવ:&#160;</string>
+    <string name="KEY_MODEL">મોડેલ </string>
+    <string name="itm_exists">આઇટમ પહેલાથી અસ્તિત્વમાં છે</string>
+    <string name="err_bcd">બારકોડ ડિટેક્ટર કાર્યરત નથી, કૃપા કરીને કોઈક સમય માટે રાહ જુઓ</string>
+    <string name="err_nobcd">કોઈ બારકોડ મળ્યો નથી</string>
+    <string name="dialog_msg">પકડી રાખો!</string>
+    <string name="main_loading"> લોડ કરી રહ્યું છે..</string>
+    <string name="main_getdata">ડેટા આવે છે</string>
+    <string name="main_removeitm">વસ્તુને દૂર કરીએ?</string>
+    <string name="main_undo">પૂર્વવત્ કરો </string>
+    <string name="info_exit">બહાર નીકળવા માટે ફરીથી બેક્ક પર ક્લિક કરો</string>
+    <string name="sign_up">સાઇન અપ કરો </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_home">હોમ </string>
+    <string name="title_search">શોધ </string>
+    <string name="title_orders">ઓર્ડર </string>
+    <string name="title_profile">પ્રોફાઇલ </string>
+    <string name="delivery_charges">ડિલિવરી ચાર્જ</string>
+    <string name="total_items">કુલ આઇટમ્સ:</string>
+    <string name="enter_your_phone_number"> તમારો ફોન નંબર દાખલ કરો:</string>
+    <string name="next">NEXT</string>
+    <string name="we_have_sent_you_an_otp">અમે તમને એક OTP મોકલ્યો છે</string>
+    <string name="enter_verification_code"> ચકાસણી કોડ દાખલ કરો</string>
+    <string name="sign_in">સાઇન ઇન કરો</string>
+    <string name="cash_on_delivery"> ડિલિવરી પર રોકડ </string>
+    <string name="name">નામ </string>
+    <string name="order_total">કુલ ક્રમ:</string>
+    <string name="rate_your_order">તમારા ઓર્ડર રેટ કરો</string>
+    <string name="let_s_have_a_look_at_gruhudhyogs_nearby"> ચાલો નજીકમાં ગૃહ ઉદ્યોગ
+ પર એક નજર નાખો</string>
+    <string name="hello_hrishi">હેલો, Hrishi!</string>
+    <string name="profile">પ્રોફાઇલ </string>
+    <string name="person_name">વ્યક્તિનું નામ </string>
+    <string name="address">સરનામું </string>
+    <string name="city">શહેર </string>
+    <string name="phone">ફોન </string>
+    <string name="search_a_shop">દુકાન શોધો</string>
+</resources>
